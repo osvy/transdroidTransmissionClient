@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/android-1.5_r4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/fluent-hc-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/httpclient-cache-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/httpmime-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/json_org.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manuel Mantovani/workspace/transdroidTransmissionClient/transdroid test/xmlpull_1_1_3_4c.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
